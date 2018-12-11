@@ -1,0 +1,13 @@
+{
+	"lantai_1" : [
+		{
+			"code_park": "A01"
+		},
+		{
+			"code_park": "A02"
+		},
+		{
+			"code_park": "A03"
+		}
+	]
+}
